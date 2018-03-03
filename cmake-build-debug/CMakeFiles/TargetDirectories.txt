@@ -1,0 +1,3 @@
+/Users/brycesulin/Desktop/Github Projects/Operating Systems Class Projects/TwoPipes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/brycesulin/Desktop/Github Projects/Operating Systems Class Projects/TwoPipes/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/brycesulin/Desktop/Github Projects/Operating Systems Class Projects/TwoPipes/cmake-build-debug/CMakeFiles/TwoPipes.dir

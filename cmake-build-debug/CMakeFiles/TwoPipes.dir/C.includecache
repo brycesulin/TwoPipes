@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/brycesulin/Desktop/Github Projects/Operating Systems Class Projects/TwoPipes/Two-Pipes.c
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+sys/wait.h
+-
+string.h
+-
+ctype.h
+-
+assert.h
+-
+stdbool.h
+-
+
